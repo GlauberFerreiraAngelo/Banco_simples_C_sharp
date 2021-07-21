@@ -1,0 +1,16 @@
+C:\Users\Manoel\source\repos\Banco\Banco\bin\Debug\net5.0\Banco.exe
+C:\Users\Manoel\source\repos\Banco\Banco\bin\Debug\net5.0\Banco.deps.json
+C:\Users\Manoel\source\repos\Banco\Banco\bin\Debug\net5.0\Banco.runtimeconfig.json
+C:\Users\Manoel\source\repos\Banco\Banco\bin\Debug\net5.0\Banco.runtimeconfig.dev.json
+C:\Users\Manoel\source\repos\Banco\Banco\bin\Debug\net5.0\Banco.dll
+C:\Users\Manoel\source\repos\Banco\Banco\bin\Debug\net5.0\ref\Banco.dll
+C:\Users\Manoel\source\repos\Banco\Banco\bin\Debug\net5.0\Banco.pdb
+C:\Users\Manoel\source\repos\Banco\Banco\obj\Debug\net5.0\Banco.csproj.AssemblyReference.cache
+C:\Users\Manoel\source\repos\Banco\Banco\obj\Debug\net5.0\Banco.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Manoel\source\repos\Banco\Banco\obj\Debug\net5.0\Banco.AssemblyInfoInputs.cache
+C:\Users\Manoel\source\repos\Banco\Banco\obj\Debug\net5.0\Banco.AssemblyInfo.cs
+C:\Users\Manoel\source\repos\Banco\Banco\obj\Debug\net5.0\Banco.csproj.CoreCompileInputs.cache
+C:\Users\Manoel\source\repos\Banco\Banco\obj\Debug\net5.0\Banco.dll
+C:\Users\Manoel\source\repos\Banco\Banco\obj\Debug\net5.0\ref\Banco.dll
+C:\Users\Manoel\source\repos\Banco\Banco\obj\Debug\net5.0\Banco.pdb
+C:\Users\Manoel\source\repos\Banco\Banco\obj\Debug\net5.0\Banco.genruntimeconfig.cache
